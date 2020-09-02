@@ -115,6 +115,10 @@ There is a search engine just to find these kinds of websites. Check out: [Wiby]
 
 [Textfiles](http://textfiles.com/) is a modern example of this kind of site.
 
+[Hundred Rabbits](https://100r.co) is a bit more stylish but mostly simple this way
+
+No CSS style at all on [Text-only NPR](https://text.npr.org/)
+
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) is the inventor of the modern web.
 
 Olia Lialina's [Top 10 Web Design Styles of 1993](http://contemporary-home-computing.org/prof-dr-style/) 
