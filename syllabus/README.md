@@ -131,10 +131,10 @@ We are all learners and educators. Your experience and participation is valid an
 
 ## Grades
 
-40% weekly homework assignments (weeks 1-10)
-20% Mid-semester project
-20% Final Assignment (weeks 11-14)
-20% Participation and attendance, and preparedness
+40% weekly homework assignments (weeks 1-10)  
+20% Mid-semester project  
+20% Final Assignment (weeks 11-14)  
+20% Participation and attendance, and preparedness  
 
 A  93 - 100  
 A- 90 - 91  
