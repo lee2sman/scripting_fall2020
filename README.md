@@ -1,4 +1,3 @@
-# Scripting For The Web
 
 Fall 2020, Purchase College
 
