@@ -101,7 +101,7 @@ If needed, this syllabus and the course outline may (and will!) be revised to be
 
 ## Attendance
 
-Don't miss class our Zoom class on Mondays! We only have one of these a week!
+Don't miss class our Zoom class on Wednesdays! We only have one of these a week!
 
 Learning programming is a cumulative effort. More than most other courses each of our classes will build on what you have learned in previous classes. Missing class sets you back in this process. It is important that you attend every class. 
 
