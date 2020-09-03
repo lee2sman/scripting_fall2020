@@ -281,26 +281,6 @@ Don't do this all at once. It could/should take a few hours. And you want to tak
 
 You have three webpages due by next Wednesday!
 
-### Re-Style the Scripting For The Web syllabus page
-
-1. Remix the class website. You have the HTML file and CSS file. Edit the CSS file, or delete it entirely and start fresh!
-2. Make your own choices of colors, fonts, placement. You can make the page brutalist, minimalist, maximalist or something entirely unique. But don't make it bland, broken or blah.
-
-### A Web-based Text Editor
-
-Continue working on the text editor we began in class. Review the editors I have hosted at on [Typetype](http://leetusman.com/Typetype). You can check out my [Typetype](https://glitch.com/edit/#!/typetype?) example code on Glitch. But don't steal my styles! Make your own!
-
-Make your own custom web-based editor. Consider colors, font, sizes, placements, maybe even starter text. What is the name of your theme? Add the name to the title of the page and put it in a h1 tag at the tag. Write a starter sentence or two that will get us in the mood to type in your editor.
-
-You will be judged on:
-
-- Concept 
-  - Does the concept make sense?
-  - Is it a novel idea? 
-- Execution
-  - Does the website work?
-  - Is the code fully functional?
-
 ### A class site of your own
 
 Make a single-page website that will serve as a landing page for the projects you create this semester. The site should be clear and easy to navigate. The code must work properly. The site should have your name or a pseudonym and a clear list of your webpages that you make for class. 
@@ -313,18 +293,65 @@ Sign into Glitch. You can remix a site we made earlier or start a new one. Place
 
 Add a link to your own text editor webpage.
 
-Your work will be evaluated based on:
+Your work will be evaluated based on the following. Those with previous HTML and CSS experience will be judged based on their experience and I expect more significant work! We wil give feedback in class next week, and there will be an opportunity to make changes after this, but you should consider this and turn in what you consider to be a complete assignment.
 
-Design
-- Is the website intuitive and attractive?
-- Does the design suit the content?
-- Is the design compelling?
-Execution
-- Does the code work?
-- Does the code make sense?
-Usability
-- Is it clear how to access your pages?
-Consistency
-- is the design consistent or are things in strange or confusing places?
+- Design  
+  - Is the website intuitive and attractive?
+  - Does the design suit the content?
+  - Is the design compelling?
+- Execution  
+  - Does the code work?
+  - Does the code make sense?
+- Usability
+  - Is it clear how to access your pages?
+- Consistency
+  - is the design consistent or are things in strange or confusing places?
 
+Example sites that rely on good, simple, clear HTML + CSS sites are:
+
+- [Hundred Rabbits](https://100r.co/site/home.html) - solarpunk hacker artists
+- [My Blog Is A Digital Garden](https://joelhooks.com/digital-garden) - a ~~blog~~ digital garden
+- [HTML Energy](https://html.energy/) - a podcast
+- [XXIIVV](https://wiki.xxiivv.com/site/home.html) - personal wiki and project tracking	
+- [Sounds of a Revolution](https://soundsofarevolution.glitch.me/) - class site for Ari Melenciano's course at Hunter College
+- [Learning Gardens](http://learning-gardens.co/) - landing page for a collaborative group
+- [tehn](https://nnnnnnnn.co/) - electronic composer
+- [oppenlab](https://www.oppenlab.net/) - a programmer's portfolio
+- [Flip's Website](https://garden.literally.fyi/) - blog
+- [snarkmarket](http://snarkmarket.com/) - blog of novelist Robin Sloan
+
+### Re-Style the Scripting For The Web syllabus page
+
+You can find the HTML (and a simple starter CSS) on [Glitch right here](https://glitch.com/edit/#!/scripting-website).
+
+**Method:**
+
+1. Remix the class website. You have the HTML file and CSS file. Edit the CSS file, or delete it entirely and start fresh!
+2. Make your own choices of colors, fonts, placement. You can make the page brutalist, minimalist, maximalist or something entirely unique. But don't make it bland, broken or blah.
+
+This page should be linked from your new class website.
+
+### A Web-based Text Editor
+
+Review the editors I have hosted at on [Typetype](http://leetusman.com/Typetype). You can check out my [Typetype](https://glitch.com/edit/#!/typetype?) example code on Glitch. But don't steal my styles! Make your own!
+
+The main gimmick here is simple: Add ```contenteditable=true``` to the body tag.
+
+```
+<h1>My great text editor</h1>
+<body contenteditable="true">
+  <p>Starter text here</p>
+</body>
+```
+
+Make your own custom web-based editor. Consider colors, font, sizes, placements, maybe even starter text. What is the name of your theme? Add the name to the title of the page and put it in a h1 tag at the tag. Write a starter sentence or two that will get us in the mood to type in your editor.
+
+You will be judged on:
+
+- Concept 
+  - Does the concept make sense?
+  - Is it a novel idea? 
+- Execution
+  - Does the website work?
+  - Is the code fully functional?
 
