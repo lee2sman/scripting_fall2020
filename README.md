@@ -1,6 +1,3 @@
-<style>
-h3 {font-size: 4rem;} body { font-size: 3.5rem; }
-</style>
 
 Fall 2020, Purchase College
 
