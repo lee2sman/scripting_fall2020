@@ -8,20 +8,6 @@ Contact: Lee.Tusman@purchase.edu
 Course: CRN 64657 / MAT 3146  
 Office Hours: Wednesdays 10:30am - 12:30pm or by appointment  
 
-
-## Online Spaces
-
-### Zoom
-
-Weekly [Zoom](https://purchase.zoom.us/j/93828383993?pwd=OW5mcW81a1F5OXlSRFlDcFlYMUpoQT09) class meeting  
-
-Office hours zoom [link](https://purchase.zoom.us/j/92791376592?pwd=R1cyZTZBc2ZnL0pMVTRIc3B2TlVMQT09)
-
-### Discord
-
-One-time sign-up [link](https://discord.gg/XgU29V3)  
-Access Discord via [www.discord.com](https://www.discord.com)  
-
 # Course Description
 
 Scripting For The Web is an upper level programming course designed to cohesively work with the web as technology, primarily through Javascript and its dynamic libraries and frameworks. We will build websites and web applications for clients and servers that use live data and interactivity as input, giving this work shape and form through code.
