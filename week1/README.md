@@ -1,5 +1,9 @@
 # Week 01 - HTML and CSS
 
+- TOC
+{:toc}
+
+## Today's Plan
 1. Introduction
 2. Get to know each other
 3. Syllabus
