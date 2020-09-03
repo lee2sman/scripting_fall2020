@@ -1,5 +1,8 @@
 # Scripting For The Web
 
+- TOC
+{:toc}
+
 Fall 2020 online edition  
 
 Instructor: Lee Tusman  
