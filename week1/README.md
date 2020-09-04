@@ -279,7 +279,8 @@ Don't do this all at once. It could/should take a few hours. And you want to tak
 - W3Schools CSS [tutorials](https://www.w3schools.com/css/default.asp) - down to the Box Model section
 - [Learn Layout tutorial](http://learnlayout.com/)
 
-- Extra Credit: [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
+UPDATE (9-3-2020): I used the word *extra credit* originally (now crossed out below) but I'm not giving additional credit. Instead, I meant *optional* and highly recommended! Sorry for not being clearer!
+- ~~Extra Credit~~ OPTIONAL but helpful!- [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/)
 
 ## Due next Wednesday by noon
 
