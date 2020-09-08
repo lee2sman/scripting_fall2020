@@ -340,7 +340,7 @@ This page should be linked from your new class website.
 
 Review the editors I have hosted at on [Typetype](http://leetusman.com/Typetype). You can check out my [Typetype](https://glitch.com/edit/#!/typetype?) example code on Glitch. But don't steal my styles! Make your own!
 
-The main gimmick here is simple: Add ```contenteditable=true``` to the body tag.
+The main gimmick here is simple: Add ```"contenteditable=true"``` to the body tag. You must surround contenteditable=true with double quotes!
 
 ```
 <h1>My great text editor</h1>
