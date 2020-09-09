@@ -659,7 +659,9 @@ You have two weeks to do this assignment!
 For next week:
 - What is your concept?
 - What is your corporation or entity's name?
-
+- What is your method? Will you use a framework or handcode or...?
+- Mock up the pages in a notebook or sketch on computer
+- Start working on it. Create HTML, CSS to demonstrate next week.
 
 # Method
 
