@@ -1,5 +1,8 @@
 # Week 2
 
+- TOC
+{:toc}
+
 Scripting For The Web  
 Sep 9, 2020
 
