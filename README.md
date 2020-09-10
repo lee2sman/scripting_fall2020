@@ -7,6 +7,12 @@ with Lee Tusman
 
 ### Notes
 
-[week 1](week1/) - Hello! HTML, CSS 
+[week 1](week1/) - Hello! HTML, CSS  
+
 [week 2](week2/) - CSS Flexbox, Frameworks, JS and jQuery
 
+<style>
+p {
+ font-size: 2.2rem;
+}
+</style>
