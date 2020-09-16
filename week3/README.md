@@ -1,5 +1,11 @@
 # Week 3
 
+Scripting For The Web  
+Sep 16, 2020
+
+- TOC
+{:toc}
+
 # schedule
 - check-in
 - questions
