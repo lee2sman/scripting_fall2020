@@ -9,7 +9,9 @@ with Lee Tusman
 
 [week 1](week1/) - Hello! HTML, CSS  
 
-[week 2](week2/) - CSS Flexbox, Frameworks, JS and jQuery
+[week 2](week2/) - CSS Flexbox and Frameworks
+
+[week 3](week3/) - Javascript and jQuery fundamentals
 
 <style>
 p {
