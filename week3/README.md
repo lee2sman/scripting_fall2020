@@ -358,109 +358,19 @@ We can have our HTML change based off specific events (a page opening, resizing,
 
 The DOM works like a tree, with nodes branching off that below. We can work on these nodes, remove them, add to them, change their properties, etc.
 
-
-## jQuery Basics
-
-*- note: there are slides*
-
-We've learned a ton so far. We now understand the basics of Javascript values, variables and functions. We understand the concept of the DOM and know that Javascript lets us modify the DOM.
-
-With that knowledge we're going to add one other tool. This is the Javascript library jQuery.
-
-Broadly stated, a programming library is a package of code with pre-written function calls and other tools to simplify working in a specific area or category. jQuery is a Javascript library that makes programming in Javascript easier and it is quick to learn.
-
-To use jQuery you first must pull it into your index file on the page where you want to use it. Then you follow that with a link to your own jQuery code.
-
-Example
-
-```
-<!DOCTYPE html>
-<html>
-<title>Minimal example - working with jquery<title>
-  <body>
-    <script src="js/jquery.js">
-    <script src="my-script.js">
-  </body>
-</html>
-```
-
-jQuery is the most famous Javascript library and at one point could be found on over 60% of websites. There are 2 options to use it:
-
-### Download jQuery and save it in your project folder
-
-[Download it](https://jquery.com/download/). Choose the compressed, production version 3.3.1.
-Then add a link to it in your html index document. Then add your own jQuery code after that.
-
-
-### or use a CDN
-
-A CDN means Content Delivery Network. Since so much of the web uses jQuery, there are companies and foundations that provide free links to jQuery online. Rather than having folks download jQuery from each website that uses it, a website developer can instead link to one of these centrally provided copies of jQuery online. That way, when someone visits your webpage, they will already have a copy of jQuery cached in their browser, and so your page will load faster.
-
-Example - exactly same as above except for the jquery link
-
-```
-<!DOCTYPE html>
-<html>
-<title>Minimal example - working with jquery<title>
-  <body>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="my-script.js">
-  </body>
-</html>
-```
-
-If you avoid Google products you can use the jQuery foundation's CDN instead, though Google's is likely the fastest to load.
-
-```
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"
-			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-			  crossorigin="anonymous"></script>
-```
-
-### What's it for?
-
-Same things as Javascript
-
-* Dynamic change
-* Interaction!
-
-### It goes between ```<script>``` tags
-
-* In HEAD or BODY
-
-- best practices are to add link to jquery and then link to your own external javascript file right before the closing ```</body>``` tag
-- why? so your HTML and CSS is loaded first and then your script is applied to them
-
-
-
-The ```$(document)``` part is what tells our program to use jQuery to interpret/run our code on the webpage.
-
-
-### using jQuery to change our css stylesheet
-
-```
-$(window).ready(function() {
-   
-   //runs once at start
-   changeBG(); 
-   
-   //runs in a loop every 5 seconds
-   setInterval(changeBG, 5000); 
-   
-   
-   //declare a function changeBG
-   
-   function changeBG() {
-     let num = Math.floor(Math.random()*18);
-     $('body').css('background', 'url("css/'+num+'.css")');
-   }
- });
- ```
-
 # Homework
 
-## jQuery practice
+## Reading
 
-- Finish your project!
-- Gather feedback from classmates
-- Make sure you add a link to jQuery in the head, and a call to your external script before you close ```</body>```
+- Do the w3schools [jQuery tutorial](https://www.w3schools.com/jquery/)
+  - Be sure to really understand the sections:
+  - [jQuery syntax](https://www.w3schools.com/jquery/jquery_syntax.asp)
+  - [jQuery selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
+  - [jQuery events](https://www.w3schools.com/jquery/jquery_events.asp)
+- Write down and bring questions to class!
+
+## Website
+
+- Finish your HTML and CSS!
+- It's expected that you won't have any scripting included, but you're welcome to start with that if you like
+- Review how your site looks on different browsers. Fix the design to work on different browsers and sites
