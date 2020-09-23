@@ -367,7 +367,7 @@ Grading Rubric:
 - Does the concept make sense?
 - Is it a novel idea?
 - Does the execution match the concept?
-- Is there a surprising hidden content that rewards the user?
+- Quality of the content including the surprising hidden content that rewards the user's discovery
 
 25% Design
 - Is the site organized into separate HTML, CSS stylesheet(s) and Javascript/jQuery
@@ -378,8 +378,9 @@ Grading Rubric:
 - Does the jQuery function properly?
 - Does the project work as intended?
 
-Completeness
+25% Completeness
 - Does the project have a title?
 - Do all pages have proper headings (h1, etc) and realistic text (not dummy) and pages with content?
+- Do the pages feel complete?
 - Project contains a website with both obvious corporate entity and hidden subversive messaging
 
