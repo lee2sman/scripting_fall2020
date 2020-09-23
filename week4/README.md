@@ -18,7 +18,7 @@ Sep 23, 2020
 
 ## jQuery Basics
 
-*- note: there are slides*
+*- note: there are [slides](jquery.pdf)*
 
 We've learned a ton so far. We now understand the basics of Javascript values, variables and functions. We understand the concept of the DOM and know that Javascript lets us modify the DOM.
 
