@@ -1,3 +1,14 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@500&display=swap');
+body {
+    font-family: 'Mali', cursive;
+}
+p {
+ font-size: 2.2rem;
+}
+</style>
+
+
 Fall 2020, Purchase College
 
 with Lee Tusman
@@ -14,12 +25,4 @@ with Lee Tusman
 
 [week 4](week4/) - All About jQuery 
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Mali:wght@500&display=swap');
-body {
-    font-family: 'Mali', cursive;
-}
-p {
- font-size: 2.2rem;
-}
-</style>
+
