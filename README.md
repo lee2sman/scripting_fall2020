@@ -12,7 +12,7 @@ with Lee Tusman
 
 [week 3](week3/) - Javascript fundamentals
 
-week 4 - All About jQuery 
+[week 4](week4/) - All About jQuery 
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Mali:wght@500&display=swap');
