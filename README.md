@@ -25,4 +25,6 @@ with Lee Tusman
 
 [week 4](week4/) - All About jQuery 
 
+[week 5](week5/) - Bookmarklets and Extensions
+
 
