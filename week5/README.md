@@ -62,4 +62,16 @@ Yung Jake - [Embedded](http://e.m-bed.de/d/)
 
 Discernment Music Video - [extension](https://chrome.google.com/webstore/detail/discernmentcrx/iopbemenfocjcmppgaifceepkjcbmpni) by Dina Kelberman
 
+## Homework
+
+Watch The Coding Train:  
+1. Intro to Chrome Extensions](https://www.youtube.com/watch?v=hkOTAmmuv_4) 
+2. [Bookmarklets](https://www.youtube.com/watch?v=DloHqUfPbJc)
+
+### Review 2 Chrome Extensions
+Choose 2 chrome extensions to try out. Read about them (what permissions do they require?) and then install them. Write about the experience. What extensions did you try out? What do they do? How was the experience? You may delete them after you are finished!
+
+### Do - Make a Bookmarklet
+
+Make a simple bookmarklet to funkify the web. Your bookmarklet, when you click on it, should add CSS, change placement of things, alter words or otherwise affect the page a viewer is looking at.
 
