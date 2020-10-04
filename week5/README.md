@@ -76,6 +76,22 @@ Choose 2 chrome extensions to try out. Read about them (what permissions do they
 
 ### Do - Make a Bookmarklet
 
+Use Chrome! Each browser works differently, but it will be easier for us if we use the same browser. Once you get it to work, feel free to try another browser.
+
 Make a simple bookmarklet to funkify the web. Your bookmarklet, when you click on it, should add CSS, change placement of things, alter words or otherwise affect the page a viewer is looking at.
 
 For inspiration, check out my [class site](https://change-stylesheet-w-jquery.glitch.me/) for heavy CSS hacking, or make your own easy-to-read-hack, or alternative-dark-mode or remove-adds on a website you frequent.
+
+### Resources
+
+[Bookmarklets Maker](https://bookmarklets.org/maker/) - click to turn on jQuery mode!
+
+10 year old article about [Making your own Bookmarklets with jQuery](https://www.smashingmagazine.com/2010/05/make-your-own-bookmarklets-with-jquery/) - still has some good ideas in it
+
+#### Bookmarklet examples
+
+[Add a unicorn to Any page](https://mreidsma.github.io/bookmarklets/unicorn.html) bookmarklet
+
+[Change the font to Papyrus on any page](https://mreidsma.github.io/bookmarklets/papyrus.html)
+
+
