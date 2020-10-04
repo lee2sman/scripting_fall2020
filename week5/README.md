@@ -71,10 +71,7 @@ For additional info, watch The Coding Train:
 1. [Intro to Chrome Extensions](https://www.youtube.com/watch?v=hkOTAmmuv_4) 
 2. [Bookmarklets](https://www.youtube.com/watch?v=DloHqUfPbJc)
 
-### Review 2 Chrome Extensions
-Choose 2 chrome extensions to try out. Read about them (what permissions do they require?) and then install them. Write about the experience. What extensions did you try out? What do they do? How was the experience? You may delete them after you are finished!
-
-### Do - Make a Bookmarklet
+## Do - Make a Bookmarklet
 
 Use Chrome! Each browser works differently, but it will be easier for us if we use the same browser. Once you get it to work, feel free to try another browser.
 
