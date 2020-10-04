@@ -64,8 +64,11 @@ Discernment Music Video - [extension](https://chrome.google.com/webstore/detail/
 
 ## Homework
 
-Watch The Coding Train:  
-1. Intro to Chrome Extensions](https://www.youtube.com/watch?v=hkOTAmmuv_4) 
+Watch Lee's [Intro to bookmarklets](https://www.youtube.com/watch?v=hzmtJbhJ4Ek&list=PLsB2lqbKJIMavn9gjx69ajD-rv5fMXeO2&index=5)
+
+For additional info, watch The Coding Train:  
+
+1. [Intro to Chrome Extensions](https://www.youtube.com/watch?v=hkOTAmmuv_4) 
 2. [Bookmarklets](https://www.youtube.com/watch?v=DloHqUfPbJc)
 
 ### Review 2 Chrome Extensions
@@ -75,3 +78,4 @@ Choose 2 chrome extensions to try out. Read about them (what permissions do they
 
 Make a simple bookmarklet to funkify the web. Your bookmarklet, when you click on it, should add CSS, change placement of things, alter words or otherwise affect the page a viewer is looking at.
 
+For inspiration, check out my [class site](https://change-stylesheet-w-jquery.glitch.me/) for heavy CSS hacking, or make your own easy-to-read-hack, or alternative-dark-mode or remove-adds on a website you frequent.
