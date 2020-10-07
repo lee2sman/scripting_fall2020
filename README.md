@@ -27,4 +27,6 @@ with Lee Tusman
 
 [week 5](week5/) - Bookmarklets and Extensions
 
+[week 6](week6/) - JSON and Extensions
+
 
