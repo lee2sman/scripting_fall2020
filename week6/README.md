@@ -183,3 +183,13 @@ Javascript file, background.js
  - What is NPM?
 
 BEFORE CLASS: Windows users: Please install [Windows Subsystem For Linux](https://docs.microsoft.com/en-us/windows/wsl/about) OR [Cygwin](https://www.cygwin.com/). This will allow you to run Linux commands and browse the file system in your Terminal. Mac Users, you alreay have a Linux-like operating system and will be able to run Linux commands in the Terminal.
+
+## Homework - coding
+
+Make an extension for yourself. Follow the procedure to make an extension. It can be something funny, something serious, something helpful, or something strange.
+
+Start by brainstorming your idea. You may want to mock it up using glitch.com to see how it might look on an affected page. If your extension is for use on specific websites, use the inspector in the web browser to check out parts of the page. Perhaps you are hiding a specific class. Maybe you are adding text, changing all of the images, adding background colors, changing fonts, inserting a moving gif, making a favorite website easier to read, or removing its ads. 
+
+Create your manifest. Feel free to start by copying a default one and making the changes that you need. Give your extension a name, a version number in quotes, and link to any needed html, js files.
+
+When finished, go to Chrome and open your extensions. Check to make sure that the Extensions are turned on (button in top right). Click on button to "Load Unpacked" extension. It should now be stored in your extensions bar. You can click on the pin to pin it to your extensions bar. Upload your folder (please compress it first) and a screenshot of your extension in use.	
