@@ -29,4 +29,6 @@ with Lee Tusman
 
 [week 6](week6/) - JSON and Extensions
 
+[week 7](week7/) - Command line
+
 
