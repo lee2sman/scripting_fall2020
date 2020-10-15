@@ -266,13 +266,17 @@ _tab_
     
 ## Homework
 
-Create a folder-poem-game aka create an environment using the command line and. Using the skills we learned and practiced today, you will create a poetic environment to explore through text and BASH commands.
+Create a folder-poem-game on the command line. 
+
+Using the skills we learned and practiced today, you will create a poetic environment to explore through text and BASH commands.
 
 Your world will be created out of text files and folders and playable by navigating through the command line.
 
 To see an example game-world, please revisit the Command Line Party and enter via the Terminal. Start by entering the Untitled Spy Radio Game folder. You can begin by typing ```cd Unt``` and then hit tab and it should autocomplete the folder name. Hit enter to enter it. You can read text files with ```cat filename```. You can modify files using ```nano filename```. You can move by typing ```cd foldername```. And move backward by typing ```cd ..```.
 
 Create a game-world, experimental poem, environment, or other project on the command line. Aim for a 10 minute experience keeping in mind that it may take lots of time to write, navigate and edit.
+
+Your players will use those same commands ```cat``` and ```cd``` to navigate through your world/poem/game.
 
 Optional: add ASCII Art to your files.
 
