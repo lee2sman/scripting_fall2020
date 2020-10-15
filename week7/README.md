@@ -25,7 +25,7 @@ They use gradients, bright colors, beefy fonts and very clear menus. All demonst
 
 ![Startpointprize EU website](startpointprize.png)
 
-- [Startpoint Prize](http://www.startpointprize.eu/2018/) is the website of an annual European prize for art student graduates. Notice all the names and links. This site is a simple design, with text doing a lot of the work. Notice how they must have impeccable folder structure! Each Year at the top has a folder named with its own year number. Each of these have their own index.html file, and if you scroll down a little you see a list of names. Clicking on a name opens a page on that artist, with a short description and 5 - 10 photos of their work.
+- [Startpoint Prize](http://www.startpointprize.eu/2020/) is the website of an annual European prize for art student graduates. Notice all the names and links. This site is a simple design, with text doing a lot of the work. Notice how they must have impeccable folder structure! Each Year at the top has a folder named with its own year number. Each of these have their own index.html file, and if you scroll down a little you see a list of names. Clicking on a name opens a page on that artist, with a short description and 5 - 10 photos of their work.
 
 The site is structured:
 
@@ -37,7 +37,7 @@ startpointprize_website/
 - js/
   jquery.js
   main.js
-- 2018/
+- 2020/
   - artists/
     - anastasia_afonina/
       index.html
@@ -47,8 +47,6 @@ startpointprize_website/
       index.html
     - another_artist_etc/
       index.html
-- 2017/
-  (NOT SHOWING FILES for 2017, BUT WORKS SAME AS 2018 folder...)
  - artist_images/
       anastasia_afonina1.jpg
       anastasia_afonina2.jpg
@@ -91,7 +89,15 @@ On a Mac you access the *Terminal* application, located inside the Utilities fol
 
 ### Accessing the Command Line on a PC
 
-PC's come with a default Powershell, but it is not a Linux-style shell. In other words, the programs and tools for working on the command line in this intro will not work in Powershell. As of the time of writing (Spring 2018), I recommend downloading the free terminal program [Cmder](http://http://cmder.net/) for a Linux-style shell on PC, including the underlying Git-Bash and Linux for Windows. You may also wish to read about [Windows Subsytem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
+PC's come with a default Powershell, but it is not a Linux-style shell. In other words, the programs and tools for working on the command line in this intro will not work in Powershell. As of the time of writing I recommend installing [Windows Subsytem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). 
+
+### Accessing the Command Line on Glitch.com
+
+Glitch.com is the free server space/host we have been using in class this semester. As both a frontend and backend host, projects you create on Glitch run on a server, and as we've learned in class, that means it runs Linux. Create a new "Hello - Node Express" project on glitch. Click Tools > Terminal. I usually choose to FULLSCREEN the Terminal.
+
+## In-class Experiment: Party In The Command Line
+
+We will be using a shared project on Glitch so we can access the same server space and be in the same command line together. Request access [here](https://glitch.com/edit/#!/command-line-party?path=README.md%3A1%3A0).
 
 # Your file system
 
