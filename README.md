@@ -1,8 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Mali:wght@500&display=swap" rel="stylesheet"> 
 <style>
-body {
-    font-family: 'Mali', cursive;
-}
 p {
  font-size: 2.2rem;
 }
@@ -30,5 +26,7 @@ with Lee Tusman
 [week 6](week6/) - JSON and Extensions
 
 [week 7](week7/) - Command line
+
+[week 8](week8/) - Node.js, Express, Socket.io
 
 
