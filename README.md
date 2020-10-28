@@ -29,4 +29,5 @@ with Lee Tusman
 
 [week 8](week8/) - Node.js, Express, Socket.io
 
+[week 9](week9/) - More on Node.js packages
 
