@@ -31,3 +31,5 @@ with Lee Tusman
 
 [week 9](week9/) - More on Node.js packages
 
+[week 10](week10/) - Web APIs and a Chatbot
+
