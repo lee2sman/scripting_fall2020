@@ -75,7 +75,7 @@ Pause! We should know this is a bad idea to enter our secret bot token in a file
 
 Go back to Discord Developer Portal. Go to the bot page. **Copy your Bot's secret token**.
 
-Paste in your client login id in your bot.js script.
+Paste in your bot's secret token in your bot.js script.
 
 ```
 client.login('N4noeuthrX3ruec.zERCU.ORxrl'); //I made this token up
@@ -88,7 +88,7 @@ When we run this, we don't see much happen. Yes, we see it basically run the out
 Let's add an *Event Handler*. We'll add an Event Handler for when Discord is loaded.
 
 ```
-client.login('ready', discordReady);
+client.on('ready', discordReady);
 ```
 
 When we receive the message that Discord is ready, launch the discordReady() function. Now let's write that function.
