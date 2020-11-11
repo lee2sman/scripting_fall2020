@@ -1,4 +1,10 @@
+# Down and Dirty in the Server
 
+Today:
+- Checkin
+- Running a server locally
+- More 1-on-1 meetings
+- Building Bots
 
 #### Update:
 - Uptime Robot does not work with Glitch anymore! as Glitch has [decided to stop all pinging services](https://blog.glitch.com/post/ping-services).

@@ -33,3 +33,5 @@ with Lee Tusman
 
 [week 10](week10/) - Web APIs and a Chatbot
 
+[week 11](week11/) - Server nitty-gritty
+
