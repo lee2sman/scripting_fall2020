@@ -37,3 +37,7 @@ with Lee Tusman
 
 [week 12](week12/) - Version Control
 
+week 13 - THANKSGIVING BREAK
+
+[week 14](week14/) - Reading From/Writing To Server
+
